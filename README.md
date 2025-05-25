@@ -23,7 +23,7 @@ A web-based tool designed to help recruiters automate resume screening using a c
 ### Prerequisites
 1. Python 3.9+
 2. A browser to run Streamlit
-3. Google Gemini API key (get it here)
+3. Google Gemini API key ([get it here](https://aistudio.google.com/app/apikey?_gl=1*5rkhh7*_ga*MjEyNzg2NjE1OC4xNzQyMzU1MjE4*_ga_P1DBVKWT6V*MTc0MjcxNzU0NC41LjAuMTc0MjcxNzU1NC41MC4wLjE0NzgzMDU3Nw..))
 
 ## Installation
 ```# Clone the repo
