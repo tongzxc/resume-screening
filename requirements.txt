@@ -1,0 +1,8 @@
+google
+pdfplumber
+tenacity
+python-dotenv
+streamlit
+streamlit-tags
+google-generativeai
+google-genai
